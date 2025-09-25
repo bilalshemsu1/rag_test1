@@ -1,7 +1,7 @@
 flask==2.3.3
 flask-cors==4.0.0
-sentence-transformers==2.2.2
+sentence-transformers==2.7.0
 chromadb==0.4.18
-numpy==1.24.3
 requests==2.31.0
-gunicorn==21.2.0
+numpy==1.26.4
+huggingface-hub==0.23.0
